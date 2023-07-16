@@ -1,5 +1,9 @@
 # ft_printf
 
+<p align="center" > 
+	<img src="100.png" width="207" />
+</p>
+
 The goal of this project is to recode `printf()` from the standard C library. You will mainly learn about using a variable number of arguments.
 
 ## Introduction
